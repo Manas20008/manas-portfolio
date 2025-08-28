@@ -1,3 +1,5 @@
+![Banner](https://github.com/Manas20008/Manas20008/blob/main/banner.png)
+
 # 👋 Hi, I'm Manas Mahajan  
 
 💻 **Software Developer | Full-Stack Engineer | Competitive Programmer**  
