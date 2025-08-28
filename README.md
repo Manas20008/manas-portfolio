@@ -1,4 +1,5 @@
-![Banner](https://github.com/Manas20008/Manas20008/blob/main/banner.png)
+![Banner](https://sdmntprwestus3.oaiusercontent.com/files/00000000-0efc-61fd-a09f-22d9f44e7b9c/raw?se=2025-08-28T10%3A34%3A24Z&sp=r&sv=2024-08-04&sr=b&scid=e6ffdfb6-b736-5d55-b39a-c68841ada95c&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-28T01%3A34%3A53Z&ske=2025-08-29T01%3A34%3A53Z&sks=b&skv=2024-08-04&sig=wanfVOk7TBf9hUdQY7Kl1HH3V32O6R2rkYBKgZwrhTA%3D)
+
 
 # 👋 Hi, I'm Manas Mahajan  
 
