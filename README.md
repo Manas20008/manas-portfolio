@@ -60,14 +60,6 @@ Built for underrepresented groups with **mentor allocation, workshop scheduling,
 - 🖥️ **Apna College (DSA in Java + MERN Full Stack)**  
 - 🤖 **Columbia+ Machine Learning I Certification**  
 
----
-
-## 📊 GitHub Stats  
-
-![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manas20008&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manas20008&layout=compact&theme=radical)  
-
----
 
 ## 🌐 Connect With Me  
 
